@@ -17,5 +17,7 @@ If you open your src folder you will see a _main_ and a _test_ folder. Delete th
 
 Now you have a project structure that looks like this:    
 
-<img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2011.13.55.png" width="400px"/>
+<img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2011.13.55.png" width="400px"/>     
+
+Don´t be confused by all the folders. They are packages (or just folders) and is not specially important right now.
 
