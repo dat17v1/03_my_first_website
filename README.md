@@ -28,6 +28,15 @@ In the demo folder create a class and call it HomeController.java.
 * Name: HomeController
 * Kind: Class
 
-<img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2023.12.13.png" width="600px"/>  
+<img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2023.12.13.png" width="600px"/>      
+
+### Create an index method in the class
+Create a public method called index with a return type of String, and return the string "index".
+
+
+
+
+
+Add @Controller above the class definition and @Get
 
 
