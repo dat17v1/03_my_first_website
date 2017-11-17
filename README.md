@@ -37,6 +37,10 @@ Create a public method called index with a return type of String, and return the
 
 
 
-Add @Controller above the class definition and @Get
+Add _@Controller_ above the class definition and _@GetMapping("/")_ above the method definition.    
+
+
+<img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2023.19.40.png" width="400px"/>  
+
 
 
