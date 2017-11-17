@@ -49,7 +49,7 @@ Add **_@Controller_** above the class definition and **_@GetMapping("/")_** abov
 * Kind: Html 5 file
 * Delete the ```` <meta charset="UTF-8"> ````  tag
 
-<img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2023.46.00.png" width="600px"/>  
+<img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2023.57.20.png" width="600px"/>  
 
 ### Run the application
 push the green start button in the upper right corner.
