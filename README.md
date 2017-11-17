@@ -40,7 +40,7 @@ Create a public method called index with a return type of String, and return the
 Add _@Controller_ above the class definition and _@GetMapping("/")_ above the method definition.    
 
 
-<img src="https://github.com/clbokea/spring_getting_started/blob/master/img/https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2023.30.50.png" width="400px"/>  
+<img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2023.30.50.png" width="400px"/>  
 
 
 
