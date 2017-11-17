@@ -53,7 +53,6 @@ Add **_@Controller_** above the class definition and **_@GetMapping("/")_** abov
 ### Run the application
 push the green start button in the upper right corner.
 
-<img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2023.49.09.png
-" width="600px"/> 
+<img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2023.49.09.png" width="600px"/> 
 
 
