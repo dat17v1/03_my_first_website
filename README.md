@@ -6,9 +6,10 @@ After creating an empty new spring project in IntelliJ through the _Spring Initi
 
 ## Your First Website
 You now have a folder and file structure that looks something like this:    
+
 <img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2010.58.46.png" width="200px"/>    
 
 
-If you open your src folder you will see a _main_ and a _test_ folder. Delete the _test_ folder, and delete the _mvnw_ and the _mvnw.cmd_ files. <sup>(you could leave them in the project, but since we are not going to use them we delete them for a better overview)</sup>
+If you open your src folder you will see a _main_ and a _test_ folder. Delete the _test_ folder, and delete the _mvnw_ and the _mvnw.cmd_ files. <sup>(you could leave them in the project, but since we are not going to use them we delete them for a better overview)</sup>    
 
 <img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2011.06.38.png" width="200px"/> 
