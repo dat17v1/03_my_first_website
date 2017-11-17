@@ -46,7 +46,8 @@ Add **_@Controller_** above the class definition and **_@GetMapping("/")_** abov
 * right click **_resource -> template_** folder 
 * Choose: **_New -> html file_** 
 * Name: index
-* Kind: Html 4 file
+* Kind: Html 5 file
+* Delete the ```` <meta charset="UTF-8"> ````  tag
 
 <img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2023.46.00.png" width="600px"/>  
 
@@ -55,4 +56,6 @@ push the green start button in the upper right corner.
 
 <img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2023.49.09.png" width="600px"/> 
 
+Open your browser and type http://localhost:8080    
 
+<img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2023.49.09.png" width="600px"/> 
