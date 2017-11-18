@@ -1,16 +1,18 @@
-# spring_getting_started
-Test projekt for getting started with spring on 2. semester
+# Your First Website
 
-After creating an empty new spring project in IntelliJ through the _Spring Initializer Template_     
-(described here: [#4 Hello Spring](https://github.com/dat17v1/2_03_hello_spring)), you should now create your first website.
+After creating an empty new Spring project in IntelliJ through the _Spring Initializer Template_: [#4 Hello Spring](https://github.com/dat17v1/2_03_hello_spring), you should now create your first _Hello World Website_.
 
 ## Your First Website
-You now have a folder and file structure that looks something like this:    
+You should now have a folder and file structure that looks something like this:    
 
 <img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2010.58.46.png" width="200px"/>    
 
 
-If you open your src folder you will see a _main_ and a _test_ folder. Delete the _test_ folder, and delete the _mvnw_ and the _mvnw.cmd_ files. <sup>(you could leave them in the project, but since we are not going to use them we delete them for a better overview)</sup>    
+If you open your **_src_** folder you will see a _main_ and a _test_ folder.    
+Delete the:
+* **_test_** folder
+* the **_mvnw_** and the **_mvnw.cmd_** files.     
+<sup>(you could leave them in the project, but since we are not going to use them we delete them for a better overview)</sup>    
 
 <img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2011.06.38.png" width="200px"/>     
 
