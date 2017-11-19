@@ -25,6 +25,7 @@ Don´t be confused by all the folders. They are packages (or just folders) and i
 
 ## Create a normal java class file
 In the demo folder create a class and call it HomeController.java.     
+<sub><sup></sup></sub>
 * Right click the "demo" folder
 * chose: New -> Java Class  
 * Name: HomeController
