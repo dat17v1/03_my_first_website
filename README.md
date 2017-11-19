@@ -14,6 +14,7 @@ Delete the:
 * **_test_** folder    
 And delete the: 
 * **_mvnw_** and the **_mvnw.cmd_** files.     
+
 <sup>(you could leave them in the project, but since we are not going to use them we delete them for a better overview)</sup>    
 
 <img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2011.06.38.png" width="300px"/>     
