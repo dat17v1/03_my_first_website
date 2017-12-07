@@ -48,7 +48,7 @@ Add **_@Controller_** above the class definition and **_@GetMapping("/")_** abov
 
 <img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2023.30.50.png" width="600px"/>      
 
-### Create an index.html file
+## Create an index.html file
 * right click **_resource -> template_** folder 
 * Choose: **_New -> html file_** 
 * Name: index
