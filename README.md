@@ -1,4 +1,4 @@
-# Your First Website
+# My First Website
 
 After creating an empty new Spring project in IntelliJ through the _Spring Initializer Template_: [#4 Hello Spring](https://github.com/dat17v1/2_03_hello_spring), you should now create your first _Hello World Website_.    
 
