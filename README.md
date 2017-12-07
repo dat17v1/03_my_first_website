@@ -56,7 +56,7 @@ Add **_@Controller_** above the class definition and **_@GetMapping("/")_** abov
 * Delete the ```` <meta charset="UTF-8"> ````  tag
 * Add ````  xmlns:th="http://www.thymeleaf.org"   ```` to the ```` <html lang="en">  ```` tag
 
-<img src="https://github.com/clbokea/spring_getting_started/blob/master/img/Screen%20Shot%202017-11-17%20at%2023.57.20.png" width="600px"/>  
+<img src="https://github.com/StudentsAdministration/03_my_first_website/blob/master/img/newHtml.png" width="600px"/>  
 
 Make your code look like the image above. (do your best :))
 
